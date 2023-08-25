@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            My Blog
+        </title>
+        <meta charset="UTF-8">
+        <meta name="Auther" content="Raja Vignesh">
+        <link rel="stylesheet" href="Practice_code_2.css">
+        <link rel="icon" href="R_icon.png" type="image/x-icon">
+        
+    </head>
+    <body>
+       <!--  -->
+       <div class="container">
+        <img src="Myimage.jpg" alt="My Image" >
+        <div class="text">
+            <dl>
+                <dt>
+                    <div class="details">details :</div> 
+                </dt>
+                <dd>
+                    <ul>
+                        <li><strong>Name</strong> : Raja Vignesh Goud </li>
+                        <li><strong>Age</strong> : 19 </li>
+                        <li><strong>Ph No</strong> : 9182215055 </li>
+                        <li><strong>Email ID</strong> : rajagoud@gmail.com </li>
+                        <li><strong>Education Qualification</strong> :<B class="Tech">VIT chennai</B> (Electronics and  Computer Engineering)<br>
+                    </ul>
+                </dd>
+               </dl>
+        </div>
+       </div> <br>
+       <hr>
+       <div class="list_links">
+        <nav>
+            <ul>
+                <li><a href="#learning"><strong>Learning</strong></a></li>
+                <li><a href="#Hobbies"><strong>My hobbies</strong></a></li>
+            </ul>
+        </nav>
+        
+       </div>
+       <hr>
+       <dl>
+        <dt>
+                <div class="coding_text">coding Languages :</div> 
+        </dt>
+        <dd>
+            <div>
+                <ul>
+                    <li>Python</li>
+                    <li>C language</li>
+                    <li>HTML</li>
+                    <li>C++</li>
+                    <li>CSS</li>
+                    <li>Arduino</li>
+                </ul>
+            </div>
+        </dd>
+       </dl> <br>
+       <hr>
+       <section id="learning">
+        <dl>
+            <dt> <div class="learning_text">I am learning : </div></dt>
+            <dd>
+                <div>
+                    <ul>
+                        <li> web development and started front end part <div class="source">source:-</div> 
+                            <div>
+                                <ul>
+                                    <li>You Tube (<a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88" target="_blank">free codecamp</a> ).</li>
+                                    <li><a href="https://chat.openai.com/auth/login" target="_blank">Chat GPT</a></li>
+                                    <li> <a href="https://www.bing.com/" target="_blank">bing</a> </li>
+                                </ul>
+                            </div> </li>
+                        <li>I also started working machine learning .</li>
+                    </ul>
+                    
+                </div>
+                
+            </dd>
+           </dl>
+       </section>
+
+       <hr>
+       <section id="Hobbies">
+        <dl>
+            <dt>
+                <div class="hobbies_text">My Hobbies are:</div>
+            </dt>
+            <dd>
+                I used to watch more about sci-fi movies , videos , and facts. <br>
+                And I always used to work on Electronics circuts , chip-boards try to figureout how they work , what is the use and how can we use more effectivly. <br>
+                I used to work on handcraft . <br>
+                I also made so home made tools drilling, and cutting tools ; a vacum-cleaner.
+            </dd>
+           </dl>
+       </section> 
+       <hr>
+       <div class="centered-text">&lt;&lt;&lt;&copy; Raja Vignesh &gt;&gt;&gt;</div>
+    </body>
+</html>
