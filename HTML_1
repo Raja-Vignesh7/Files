@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            My web Page
+        </title>
+        <link rel="stylesheet" href="HTML_practice_css_code.css">
+        <meta name="author" content="Raja Vignesh">
+        <meta name="Description" content="This page contain all details about me and my work">
+        <link rel="icon" href="icon-2.jpg" type="image/x-icon">
+    </head>
+    <body>
+        <h1>
+            My Details
+        </h1>
+        <hr> 
+        <p>
+            Name :  Raja Vignesh Goud <br>
+            Age : 20 <br>
+            Ph no : 9182215055 <br>
+            Study : B.tech <br>
+            course : Electronics and computer Engineering 
+        </p>
+        <hr>
+        <h2>
+            currently learning  :-
+        </h2>
+        <ul>
+            <li>Ardunio UNO (Both hard ware and soft ware) </li>
+            <li>Robotics </li>
+            <li>Front end part </li>
+            <li>I also learned how to insert an image in a web Page </li>
+            <img src="iron man.jpg" alt="iron man" >
+        </ul>
+        <hr>
+        <h3>
+            I use to learn all this with the help of <abbr title="You tube">YT</abbr>, <abbr title="Chat GPT"><a href="https://chat.openai.com/">CGPT</a> </abbr>
+        </h3>
+        <h3>
+          <a href="page_2.html">More details about my work</a>
+        </h3>
+        <hr>
+        &lt;&lt;&lt;&nbsp;&copy;&nbsp;Raja Vignesh&nbsp;&gt;&gt;&gt;
+    </body>
+</html>
